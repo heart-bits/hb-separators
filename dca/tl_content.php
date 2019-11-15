@@ -12,4 +12,4 @@
 /**
  * Palettes
  */
-$GLOBALS['TL_DCA']['tl_content']['palettes']['separators'] = '{type_legend},type';
+$GLOBALS['TL_DCA']['tl_content']['palettes']['separators'] = '{type_legend},type;customTpl';
